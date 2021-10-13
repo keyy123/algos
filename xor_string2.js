@@ -10,4 +10,6 @@ function xor(s, t) {
   return result
 }
 console.log(xor('11111', '11111'))
-console.log(Math.floor(1/2 + 1/2 +1/2))
+console.log(Math.floor(1 / 2 + 1 / 2 + 1 / 2))
+
+//Good Job!
